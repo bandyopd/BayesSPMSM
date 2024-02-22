@@ -2,9 +2,8 @@ Bayesian semiparametric modeling of spatially referenced multistate
 current status data
 ================
 
-Implementation of modeling framework proposed in the paper, Das, S.,
-Chae, M., Pati, D., and Bandyopadhyay, D. (2024+) “Bayesian
-semiparametric modeling of spatially referenced multistate current
+Implementation of the modeling proposed in the paper: Das, S.,
+Chae, M., Pati, D., and Bandyopadhyay, D. (2024+) “A monotone single-index model for spatially referenced multistate current
 status data”.
 
 ## Overview
